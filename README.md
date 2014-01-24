@@ -9,8 +9,8 @@ spoj_tester tool
 
 ### Installation:
 
-cd spoj_tester
-python setup.py install
++ `cd spoj_tester`
++ `python setup.py install`
 
 ### Usage:
 
