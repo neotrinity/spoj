@@ -14,9 +14,9 @@ python setup.py install
 
 ### Usage:
 
-`spoj[.py]`
-`spoj[.py] .`
-`spoj[.py] life_the_universe_and_everything`
++ `spoj[.py]`
++ `spoj[.py] .`
++ `spoj[.py] life_the_universe_and_everything`
 
 ### Expected files in the folder:
 
